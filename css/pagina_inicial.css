@@ -1,0 +1,19 @@
+body {
+  background-color: #121d17;
+  font-family: "Radio Canada", sans-serif;
+}
+
+h1 {
+  font-family: "Orbitron", sans-serif;
+}
+
+.bg-jogador {
+  background-image: url("../img/jogador.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  background-color: #333;
+}
